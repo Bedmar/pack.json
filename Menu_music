@@ -1,0 +1,10 @@
+{
+  "Muladhara": "Pack Name",
+  "This track was obtained from Khinsider, It's from the game Digital Devil Saga and it plays in the first area of the game": "Use this field to describe the pack.",
+  "author": "Bedmar",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
